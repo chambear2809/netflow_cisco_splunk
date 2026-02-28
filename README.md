@@ -1,5 +1,3 @@
-Here is the updated guide with only Cisco device examples:
-
 ---
 
 # Splunk Stream NetFlow Configuration Guide
